@@ -1,0 +1,70 @@
+body {
+  background-color: white;
+  color: #303030
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  margin:20px;
+}
+
+main {
+  background-color: #f0f0f0;
+  margin: 20px auto;
+  max-width: 450px;
+  padding: 20px;
+  border: 20px solid;
+  border-color: black;
+  border-radius: 40px;
+}
+
+.Frankie {
+  width: 350px;
+  padding: 10px;
+  background-color: maroon;
+  color: white;
+  border-radius: 25px;
+  font-family: monospace, Arial, sans-serif;
+}
+
+.Leslie {
+  width: 350px;
+  padding: 10px;
+  background-color: lightgreen;
+  border-radius: 25px;
+  font-family: monospace, Arial, sans-serif;
+}
+
+li {
+  margin: 20px;
+}
+
+#name {
+  width: 80px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 25px;
+  font-family: monospace, Arial, sans-serif;
+  border-radius: 15px;
+}
+
+#message {
+  width: 250px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 15px;
+  font-family: monospace, Arial, sans-serif;
+}
+
+button {
+  width: 80px;
+  padding: 10px;
+  background-color: lightgreen;
+  font-family: monospace, Arial, sans-serif;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+
+form {
+  background-color: grey;
+  padding: 10px;
+  border: 5px solid black;
+  border-radius: 15px;
+}

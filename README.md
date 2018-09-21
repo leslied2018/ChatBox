@@ -1,3 +1,3 @@
 # ChatBox
 
-This website has a chatbox on it. 
+This repo contains a chat box web application. 
